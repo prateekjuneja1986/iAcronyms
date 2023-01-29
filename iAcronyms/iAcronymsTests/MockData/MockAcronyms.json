@@ -1,0 +1,96 @@
+[
+  {
+    "sf": "NAME",
+    "lfs": [
+      {
+        "lf": "nitro-L-arginine methyl ester",
+        "freq": 73,
+        "since": 1990,
+        "vars": [
+          {
+            "lf": "nitro-L-arginine methyl ester",
+            "freq": 39,
+            "since": 1990
+          },
+          {
+            "lf": "nitro-L-arginine methylester",
+            "freq": 9,
+            "since": 1994
+          },
+          {
+            "lf": "nitroarginine methyl ester",
+            "freq": 6,
+            "since": 1992
+          },
+          {
+            "lf": "nitro-l-arginine methyl ester",
+            "freq": 5,
+            "since": 1994
+          },
+          {
+            "lf": "nitro-L-arginine-methyl-ester",
+            "freq": 3,
+            "since": 1992
+          },
+          {
+            "lf": "nitro-arginine methyl ester",
+            "freq": 2,
+            "since": 1996
+          },
+          {
+            "lf": "nitro-L-arginine-methylester",
+            "freq": 2,
+            "since": 1991
+          },
+          {
+            "lf": "nitro L-arginine methyl ester",
+            "freq": 1,
+            "since": 1994
+          },
+          {
+            "lf": "nitro arginine methyl ester",
+            "freq": 1,
+            "since": 2006
+          },
+          {
+            "lf": "Nitro-L-arginine methyl ester",
+            "freq": 1,
+            "since": 1991
+          },
+          {
+            "lf": "nitro-arginine-methyl ester",
+            "freq": 1,
+            "since": 1996
+          },
+          {
+            "lf": "nitro-arginine-methyl-ester",
+            "freq": 1,
+            "since": 2001
+          },
+          {
+            "lf": "nitro-L-arginine-methyl ester",
+            "freq": 1,
+            "since": 2003
+          },
+          {
+            "lf": "Nitroarginine methyl ester",
+            "freq": 1,
+            "since": 1998
+          }
+        ]
+      },
+      {
+        "lf": "National Association of Medical Examiners",
+        "freq": 7,
+        "since": 2002,
+        "vars": [
+          {
+            "lf": "National Association of Medical Examiners",
+            "freq": 7,
+            "since": 2002
+          }
+        ]
+      }
+    ]
+  }
+]
